@@ -4,3 +4,5 @@
 
 app will shortern ONLY english words. app will use standard abbreviation ie can not = can't. When standard abbreviations aren't availble the app will shorten words by removing vowels.
 
+'phonetic concatenation' - the removal of vowels in a word to reduce the numbers of letters in a word while having the same phonetic pronunciation
+
